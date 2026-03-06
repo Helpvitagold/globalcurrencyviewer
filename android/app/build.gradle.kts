@@ -25,7 +25,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.my_currency_app"
+    namespace = "com.example.global_currency_viewer"
     compileSdk = flutter.compileSdkVersion
 
     compileOptions {
@@ -39,7 +39,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.my_currency_app"
+        applicationId = "com.example.global_currency_viewer"
         minSdk = flutter.minSdkVersion 
         targetSdk = flutter.targetSdkVersion
         versionCode = flutterVersionCode.toInt()

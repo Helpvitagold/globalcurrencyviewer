@@ -1,4 +1,4 @@
-package com.example.my_currency_app
+package com.example.global_currency_viewer
 
 import io.flutter.embedding.android.FlutterActivity
 

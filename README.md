@@ -1,4 +1,4 @@
-# my_currency_app
+# global_currency_viewer
 
 A new Flutter project.
 

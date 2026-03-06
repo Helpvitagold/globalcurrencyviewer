@@ -1,5 +1,5 @@
-name: Global Currency Viewer
-description: "A new Flutter project."
+name: global_currency_viewer
+description: A global currency viewer application.
 publish_to: 'none'
 version: 1.0.0+1
 
