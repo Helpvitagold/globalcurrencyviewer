@@ -1,6 +1,6 @@
 {
-    "name": "my_currency_app",
-    "short_name": "my_currency_app",
+    "name": "Global Currency Viewer",
+    "short_name": "Global Currency Viewer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

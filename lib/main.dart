@@ -283,7 +283,7 @@ class _CurrencyAppState extends State<CurrencyApp> {
       backgroundColor: Colors.grey.shade100,
       appBar: AppBar(
         title: const Text(
-          'Travel Wallet Pro',
+          'Global Currency Viewer',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.indigo.shade50,
