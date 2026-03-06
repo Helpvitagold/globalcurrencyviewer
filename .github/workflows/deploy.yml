@@ -12,7 +12,7 @@ jobs:
           flutter-version: '3.x'
           channel: 'stable'
           
-      - run: flutter build web --release --base-href "/travel-wallet-pro-web/"
+      - run: flutter build web --release --base-href "/globalcurrencyviewer/"
       
       # 💡 [핵심 수정] SEO 및 인증 관련 파일들을 빌드 폴더로 모두 강제 복사
       - name: Copy SEO and Verification Files
